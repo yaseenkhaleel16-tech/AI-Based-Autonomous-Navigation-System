@@ -84,17 +84,7 @@ A* chooses the next cell using:
 - `g(n)` is the cost from the start to the current cell.
 - `h(n)` is the Manhattan-distance estimate from the current cell to the goal.
 - Movement is allowed up, down, left, and right; diagonal movement is not included.
-
-## Proof for GitHub
-Capture screenshots of:
-- The simulation with the full planned path (`screenshots/navigation-demo.png`)
-- The robot near the destination (`screenshots/destination-reached.png`)
-- The route after pressing **N** (`screenshots/obstacle-replanning.png`)
-
-Add the screenshots to the `screenshots/` folder and reference them here, for example:
-```markdown
-![Navigation demo](screenshots/navigation-demo.png)
-```
+- <img width="1270" height="700" alt="Screenshot 2026-10-13 152011" src="https://github.com/user-attachments/assets/8dfaaa2a-232b-4ea0-8763-84a1146bd1dd" />
 
 ## Troubleshooting
 - **`python` is not recognized:** reinstall Python and enable **Add Python to PATH**, or try `py main.py`.
