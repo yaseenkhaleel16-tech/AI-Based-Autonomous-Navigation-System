@@ -108,3 +108,5 @@ A* chooses the next cell using:
 
 ## Author
 Student project — AI-Based Autonomous Navigation System
+Github:https://github.com/yaseenkhaleel16-tech/AI-Based-Autonomous-Navigation-System
+Linkedin:https://www.linkedin.com/in/yaseen-khaleel-6a535a432/
